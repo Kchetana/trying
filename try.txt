@@ -2,3 +2,5 @@ this is the content
 second line
 adding line three
 now 4 
+
+adding 6
